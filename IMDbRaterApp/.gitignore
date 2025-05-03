@@ -1,0 +1,9 @@
+# Xcode & macOS
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+*.DS_Store
+
+# API keys or secrets
+Constants.swift
