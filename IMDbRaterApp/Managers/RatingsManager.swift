@@ -1,9 +1,6 @@
 //
 //  RatingsManager.swift
 //  IMDbRaterApp
-//
-//  Created by Serdar Celiker on 2025-05-03.
-//
 
 import Foundation
 
